@@ -1,7 +1,7 @@
 # Compose Scroller
 
 
-Customizable scroll for Android Compose Scrolabale Views.
+Customizable scroll for All Android Compose Scrollable Views.
 
 - Fully customizable.
 - Easy-to-use.
